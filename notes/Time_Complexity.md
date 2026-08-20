@@ -16,3 +16,22 @@
 # O(n)
 
 4. next([i, nums.index(target - x)] for i, x in enumerate(nums) if target - x in nums and nums.index(target - x) != i)
+
+
+
+# Choise of data structure
+
+| **You need to implement...** | **Typical data structure** |
+| :--- | ---: |
+| Is x present? | set |
+| x → value  | dict / hash map |
+| Index-based access | list / array |
+| Always minimum/maximum | heap |
+| Sorted data + search | binary search / BST |
+| FIFO | queue / deque |
+| LIFO | stack |
+| Intervals/windows | sliding window + auxiliary structure |
+
+
+
+# If the key set is small and well-defined, an array can be used instead of a hash map.

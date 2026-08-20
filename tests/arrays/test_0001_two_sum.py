@@ -1,6 +1,5 @@
 from solutions.arrays.easy._0001_two_sum_first_attempt import Solution
 
-
 def test_two_sum():
     solution = Solution()
 
