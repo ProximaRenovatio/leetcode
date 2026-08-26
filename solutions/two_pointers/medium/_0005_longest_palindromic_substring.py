@@ -7,7 +7,7 @@ class Solution:
         for i in range(1,n):
             even_pal = odd_pal = s[i]
 
-            j = 0  #abcdcba  cbabdaaab
+            j = 0
             wipO = wipE = True
             while j < min(n-i,i): 
 
