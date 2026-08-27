@@ -19,6 +19,9 @@ coverage.xml
 .vscode/
 .idea/
 
+# Notes
+notes/
+
 # OS
 .DS_Store
 Thumbs.db

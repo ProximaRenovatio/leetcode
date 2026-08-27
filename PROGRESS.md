@@ -18,6 +18,7 @@ Legenda:
 
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
+| 2 | Zigzag Conversion | Medium | Strings | 🟢 |
 
 ## Hash Table
 
@@ -28,22 +29,26 @@ Legenda:
 
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
+| 5 | Longest Palindromic substring | Medium | Two Pointers | 🟢 |
+| 4030 | check ASCII palindromic | Easy | Two Pointers | 🟢 |
 
 ## Sliding Window
 
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
+| 3 | Longest Substring | Medium | Sliding Window | 🟢 |
 
 ## Binary Search
 
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
+| 4 | Median of two sorted arrays | Hard | Binary Search | 🟢 |
 
 ## Linked List
 
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
-| 1 | Add Two Numbers | Medium | Linked List Traversal + Dummy Node | 🟢 |
+| 2 | Add Two Numbers | Medium | Linked List Traversal + Dummy Node | 🟢 |
 
 ## Stack / Queue
 
@@ -84,3 +89,4 @@ Legenda:
 
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
+| 7 | Reverse Integer | Medium | Math | ⬜ |
