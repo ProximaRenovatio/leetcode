@@ -1,0 +1,6 @@
+"""LeetCode problem starter."""
+
+class Trie:
+    def __init__(self, *args, **kwargs):
+        # TODO: implement
+        pass

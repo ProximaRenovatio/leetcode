@@ -1,0 +1,8 @@
+from solutions.math_geometry.medium._0054_spiral_matrix import Solution
+
+def test_spiral_matrix():
+    solution = Solution()
+
+    assert solution.spiralOrder(
+        [[1,2,3],[4,5,6],[7,8,9]]
+    ) == [1,2,3,6,9,8,7,4,5]

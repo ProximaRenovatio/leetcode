@@ -31,6 +31,7 @@ Legenda:
 |---|---|---|---|---|
 | 5 | Longest Palindromic substring | Medium | Two Pointers | 🟢 |
 | 4030 | check ASCII palindromic | Easy | Two Pointers | 🟢 |
+| 26 | Remove duplicates from sorted array | Easy | Two Pointers | 🟡 |
 
 ## Sliding Window
 
@@ -74,6 +75,7 @@ Legenda:
 
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
+| 1 | Letter Combinations of a Phone Number | Medium | Backtracking | 🟡 |
 
 ## Greedy
 
@@ -89,4 +91,5 @@ Legenda:
 
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
-| 7 | Reverse Integer | Medium | Math | ⬜ |
+| 7 | Reverse Integer | Medium | Math | 🟡 |
+| 50 | Pow(x,n) | Medium | Math | 🟡 |

@@ -1,0 +1,6 @@
+"""LeetCode problem starter."""
+
+class Solution:
+    def kClosest(self, points: list[list[int]], k: int) -> list[list[int]]:
+        # TODO: implement
+        raise NotImplementedError

@@ -25,3 +25,6 @@ notes/
 # OS
 .DS_Store
 Thumbs.db
+
+# Script for the initialization of solutions and tests
+generate_leetcode.py

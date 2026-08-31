@@ -1,4 +1,4 @@
-from patterns.quick_sort.quick_sort import quick_sort 
+from patterns.divide_and_conquer.quick_sort import quick_sort 
 
 '''
 # Approach 1: Concatenate + sort 
