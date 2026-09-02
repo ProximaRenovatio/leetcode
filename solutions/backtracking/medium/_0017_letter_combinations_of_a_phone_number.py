@@ -1,5 +1,5 @@
 class Solution:
-    def letterCombinations(self, digits: str) -> List[str]:
+    def letterCombinations(self, digits: str) -> list[str]:
         if not digits:
             return []
 
@@ -24,7 +24,7 @@ class Solution:
 
         return res
 
-    def getCombinations(self, d: str, r: List[str], letters: dict):
+    def getCombinations(self, d: str, r: list[str], letters: dict):
         if len(d) == 0:
             return
 

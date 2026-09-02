@@ -1,4 +1,4 @@
-from solutions.2d_dynamic_programming.medium._0062_unique_paths import Solution
+from solutions.two_d_dynamic_programming.medium._0062_unique_paths import Solution
 
 def test_unique_paths():
     solution = Solution()

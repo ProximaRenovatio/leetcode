@@ -1,4 +1,4 @@
-from solutions.2d_dynamic_programming.hard._0329_longest_increasing_path_in_a_matrix import Solution
+from solutions.two_d_dynamic_programming.hard._0329_longest_increasing_path_in_a_matrix import Solution
 
 def test_longest_increasing_path_in_a_matrix():
     solution = Solution()

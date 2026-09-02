@@ -1,4 +1,4 @@
-from solutions.2d_dynamic_programming.hard._0115_distinct_subsequences import Solution
+from solutions.two_d_dynamic_programming.hard._0115_distinct_subsequences import Solution
 
 def test_distinct_subsequences():
     solution = Solution()

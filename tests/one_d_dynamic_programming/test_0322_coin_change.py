@@ -1,4 +1,4 @@
-from solutions.1d_dynamic_programming.medium._0322_coin_change import Solution
+from solutions.one_d_dynamic_programming.medium._0322_coin_change import Solution
 
 def test_coin_change():
     solution = Solution()

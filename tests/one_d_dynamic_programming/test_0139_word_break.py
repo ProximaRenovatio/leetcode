@@ -1,4 +1,4 @@
-from solutions.1d_dynamic_programming.medium._0139_word_break import Solution
+from solutions.one_d_dynamic_programming.medium._0139_word_break import Solution
 
 def test_word_break():
     solution = Solution()

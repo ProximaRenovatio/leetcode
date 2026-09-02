@@ -70,12 +70,13 @@ Legenda:
 
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
+| 3568 | Minimum Moves to Clean the Classroom | Medium | BFS + Bitmask | 🔴 |
 
 ## Backtracking
 
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
-| 1 | Letter Combinations of a Phone Number | Medium | Backtracking | 🟡 |
+| 17 | Letter Combinations of a Phone Number | Medium | Backtracking | 🟡 |
 
 ## Greedy
 
@@ -93,3 +94,4 @@ Legenda:
 |---|---|---|---|---|
 | 7 | Reverse Integer | Medium | Math | 🟡 |
 | 50 | Pow(x,n) | Medium | Math | 🟡 |
+| 3875 | Construct Uniform Parity Array I | Easy | Math | 🔵 |

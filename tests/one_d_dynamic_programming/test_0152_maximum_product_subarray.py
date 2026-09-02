@@ -1,4 +1,4 @@
-from solutions.1d_dynamic_programming.medium._0152_maximum_product_subarray import Solution
+from solutions.one_d_dynamic_programming.medium._0152_maximum_product_subarray import Solution
 
 def test_maximum_product_subarray():
     solution = Solution()

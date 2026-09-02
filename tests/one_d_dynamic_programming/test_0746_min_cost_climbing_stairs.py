@@ -1,4 +1,4 @@
-from solutions.1d_dynamic_programming.easy._0746_min_cost_climbing_stairs import Solution
+from solutions.one_d_dynamic_programming.easy._0746_min_cost_climbing_stairs import Solution
 
 def test_min_cost_climbing_stairs():
     solution = Solution()

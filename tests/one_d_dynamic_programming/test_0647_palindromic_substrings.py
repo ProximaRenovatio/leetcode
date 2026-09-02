@@ -1,4 +1,4 @@
-from solutions.1d_dynamic_programming.medium._0647_palindromic_substrings import Solution
+from solutions.one_d_dynamic_programming.medium._0647_palindromic_substrings import Solution
 
 def test_palindromic_substrings():
     solution = Solution()

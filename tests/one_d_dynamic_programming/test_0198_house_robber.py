@@ -1,4 +1,4 @@
-from solutions.1d_dynamic_programming.medium._0198_house_robber import Solution
+from solutions.one_d_dynamic_programming.medium._0198_house_robber import Solution
 
 def test_house_robber():
     solution = Solution()

@@ -1,4 +1,4 @@
-from solutions.2d_dynamic_programming.medium._0494_target_sum import Solution
+from solutions.two_d_dynamic_programming.medium._0494_target_sum import Solution
 
 def test_target_sum():
     solution = Solution()

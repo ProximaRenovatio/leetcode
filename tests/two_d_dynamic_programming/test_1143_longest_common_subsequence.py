@@ -1,4 +1,4 @@
-from solutions.2d_dynamic_programming.medium._1143_longest_common_subsequence import Solution
+from solutions.two_d_dynamic_programming.medium._1143_longest_common_subsequence import Solution
 
 def test_longest_common_subsequence():
     solution = Solution()

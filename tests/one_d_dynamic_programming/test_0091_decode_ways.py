@@ -1,4 +1,4 @@
-from solutions.1d_dynamic_programming.medium._0091_decode_ways import Solution
+from solutions.one_d_dynamic_programming.medium._0091_decode_ways import Solution
 
 def test_decode_ways():
     solution = Solution()

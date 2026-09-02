@@ -1,4 +1,4 @@
-from solutions.2d_dynamic_programming.hard._0312_burst_balloons import Solution
+from solutions.two_d_dynamic_programming.hard._0312_burst_balloons import Solution
 
 def test_burst_balloons():
     solution = Solution()
