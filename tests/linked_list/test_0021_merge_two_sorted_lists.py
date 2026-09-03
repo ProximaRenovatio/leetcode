@@ -1,4 +1,5 @@
 from solutions.linked_list.easy._0021_merge_two_sorted_lists import Solution
+from utils.linked_list import ListNode
 
 def test_merge_two_sorted_lists():
     solution = Solution()

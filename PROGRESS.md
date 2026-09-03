@@ -18,7 +18,7 @@ Legenda:
 
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
-| 2 | Zigzag Conversion | Medium | Strings | 🟢 |
+| 6 | Zigzag Conversion | Medium | Strings | 🟢 |
 
 ## Hash Table
 
@@ -50,11 +50,14 @@ Legenda:
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
 | 2 | Add Two Numbers | Medium | Linked List Traversal + Dummy Node | 🟢 |
+| 21 | Merge Two Sorted Lists | Easy | Linked List Traversal | 🟢 |
+| 2058 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | Linked List Traversal | 🟢 |
 
 ## Stack / Queue
 
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
+| 20 | Valid Parentheses | Easy | Stack | 🟡 |
 
 ## Heap
 
@@ -95,3 +98,4 @@ Legenda:
 | 7 | Reverse Integer | Medium | Math | 🟡 |
 | 50 | Pow(x,n) | Medium | Math | 🟡 |
 | 3875 | Construct Uniform Parity Array I | Easy | Math | 🔵 |
+| 3876 | Construct Uniform Parity Array II | Medium | Math | 🟢 |
