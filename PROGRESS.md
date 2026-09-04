@@ -12,6 +12,7 @@ Legenda:
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
 | 1 | Two Sum | Easy | Hash Map | 🟢 |
+| 3903 | Smallest stable index i | Easy | Array | 🔵 |
 |  |  |  |  | ⬜ |
 
 ## Strings
