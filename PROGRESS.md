@@ -13,6 +13,7 @@ Legenda:
 |---|---|---|---|---|
 | 1 | Two Sum | Easy | Hash Map | 🟢 |
 | 3903 | Smallest stable index i | Easy | Array | 🔵 |
+| 3904 | Smallest stable index iI | Medium | Array | 🔵 |
 |  |  |  |  | ⬜ |
 
 ## Strings
