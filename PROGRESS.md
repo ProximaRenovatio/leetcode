@@ -92,6 +92,8 @@ Legenda:
 
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
+| 115 | Distinct Subsequences | Hard | DP + Memoization | 🔴 |
+
 
 ## Math
 
