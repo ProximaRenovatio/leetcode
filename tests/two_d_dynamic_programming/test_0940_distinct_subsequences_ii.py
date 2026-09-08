@@ -3,5 +3,6 @@ from solutions.two_d_dynamic_programming.hard._0940_distinct_subsequences_ii imp
 def test_distinct_subsequences():
     solution = Solution()
 
-    assert solution.numDistinct("abc") == 7
-    assert solution.numDistinct("aaa") == 3
+    assert solution.distinctSubseqII("abc") == 7
+    assert solution.distinctSubseqII("aba") == 6
+    assert solution.distinctSubseqII("aaa") == 3
