@@ -70,6 +70,7 @@ Legenda:
 
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
+| 2265 | Count Nodes Equal to Average of Subtree | Medium | DFS + Trees | 🔴 |
 
 ## Graphs
 
@@ -103,6 +104,6 @@ Legenda:
 | 7 | Reverse Integer | Medium | Math | 🟡 |
 | 50 | Pow(x,n) | Medium | Math | 🟡 |
 | 3870 | Count Commas in Range | Easy | Math | 🔵 |
-| 3871 | Count Commas in Range II | Medium | Math | 🔵 |
+| 3871 | Count Commas in Range II | Medium | Math | 🟡 |
 | 3875 | Construct Uniform Parity Array I | Easy | Math | 🔵 |
 | 3876 | Construct Uniform Parity Array II | Medium | Math | 🟢 |
