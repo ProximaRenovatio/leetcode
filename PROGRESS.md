@@ -95,6 +95,7 @@ Legenda:
 |---|---|---|---|---|
 | 115 | Distinct Subsequences | Hard | DP + Memoization | 🔴 |
 | 940 | Distinct Subsequences II | Hard | DP + Memoization | 🔴 |
+| 3414 | Maximum Score of non-Overlapping intervals | Hard | DP + Memoization | 🔴 |
 
 
 ## Math
