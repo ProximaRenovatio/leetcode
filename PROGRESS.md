@@ -12,6 +12,7 @@ Legenda:
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
 | 1 | Two Sum | Easy | Hash Map | 🟢 |
+| 835 | Image Overlap | Medium | Array | 🟡 |
 | 3903 | Smallest stable index I | Easy | Array | 🔵 |
 | 3904 | Smallest stable index II | Medium | Array | 🔵 |
 |  |  |  |  | ⬜ |
