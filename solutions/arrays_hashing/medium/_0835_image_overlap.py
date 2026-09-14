@@ -19,3 +19,8 @@ class Solution:
                 res = max(res, overlaps)
 
         return res
+
+
+        ''' this solution is O(n4)  
+
+        there is a method to get just O(n3) with the coordinates of the ones for both of arrays '''

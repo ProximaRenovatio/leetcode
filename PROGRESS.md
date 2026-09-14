@@ -105,6 +105,7 @@ Legenda:
 |---|---|---|---|---|
 | 7 | Reverse Integer | Medium | Math | 🟡 |
 | 50 | Pow(x,n) | Medium | Math | 🟡 |
+| 836 | Rectangle Overlap | Easy | Geometry | 🟢 |
 | 3483 | Unique 3-Digit Even Numbers | Easy | Math | 🟢 |
 | 3870 | Count Commas in Range | Easy | Math | 🔵 |
 | 3871 | Count Commas in Range II | Medium | Math | 🟡 |
