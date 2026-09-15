@@ -89,6 +89,7 @@ Legenda:
 
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
+| 2472 | Maximum number of non overlapping palindrome substrings | Hard | DP + Memoization + Greedy | 🔴 |
 
 ## Dynamic Programming
 
