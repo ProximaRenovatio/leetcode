@@ -98,6 +98,7 @@ Legenda:
 | 115 | Distinct Subsequences | Hard | DP + Memoization | 🔴 |
 | 940 | Distinct Subsequences II | Hard | DP + Memoization | 🔴 |
 | 1621 | Number of sets of k non overlapping line segments | Medium | DP + Memoization + Math | 🔴 |
+| 1477 | Find two non-overlapping Sub-arrays each with target sum | Medium | DP + Memoization + Binary Search | 🔴 |
 | 3414 | Maximum Score of non-Overlapping intervals | Hard | DP + Memoization | 🔴 |
 
 
