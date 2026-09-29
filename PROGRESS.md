@@ -100,6 +100,7 @@ Legenda:
 | 1621 | Number of sets of k non overlapping line segments | Medium | DP + Memoization + Math | 🔴 |
 | 1477 | Find two non-overlapping Sub-arrays each with target sum | Medium | DP + Memoization + Binary Search | 🔴 |
 | 3414 | Maximum Score of non-Overlapping intervals | Hard | DP + Memoization | 🔴 |
+| 2267 | Valid Parentheses String Path | Hard | DP + Array | 🔴 |
 
 
 ## Math
