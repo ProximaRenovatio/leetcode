@@ -35,6 +35,7 @@ Legenda:
 | 5 | Longest Palindromic substring | Medium | Two Pointers | 🟢 |
 | 4030 | check ASCII palindromic | Easy | Two Pointers | 🟢 |
 | 26 | Remove duplicates from sorted array | Easy | Two Pointers | 🟡 |
+| 125 | Valid Palindrome | Easy | Two Pointers | 🟢 |
 
 ## Sliding Window
 
@@ -61,6 +62,7 @@ Legenda:
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
 | 20 | Valid Parentheses | Easy | Stack | 🟡 |
+| 1111 |  Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | Stack | 🔴 |
 
 ## Heap
 
