@@ -62,6 +62,7 @@ Legenda:
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
 | 20 | Valid Parentheses | Easy | Stack | 🟡 |
+| 32 | Longest Valid Parentheses | Hard | Stack + DP | 🔴 |
 | 1111 |  Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | Stack | 🔴 |
 
 ## Heap
@@ -86,6 +87,7 @@ Legenda:
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
 | 17 | Letter Combinations of a Phone Number | Medium | Backtracking | 🟡 |
+| 22 | Generate Parentheses | Medium | Backtracking | 🔴 |
 
 ## Greedy
 
