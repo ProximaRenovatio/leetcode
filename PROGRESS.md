@@ -22,6 +22,7 @@ Legenda:
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
 | 6 | Zigzag Conversion | Medium | Strings | 🟢 |
+| 678 | Valid Parenthesis String | Medium | Strings | 🟡 |
 
 ## Hash Table
 
