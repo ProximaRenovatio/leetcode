@@ -2,10 +2,6 @@ class Solution:
     def scoreOfParentheses(self, s: str) -> int:
         stack = [0]
 
-        for char in s:class Solution:
-    def scoreOfParentheses(self, s: str) -> int:
-        stack = [0]
-
         for char in s:
 
             if char == '(':
