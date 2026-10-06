@@ -65,6 +65,7 @@ Legenda:
 | 20 | Valid Parentheses | Easy | Stack | 🟡 |
 | 32 | Longest Valid Parentheses | Hard | Stack + DP | 🔴 |
 | 856 | Score of Parentheses | Medium | Stack + DP | 🔴 |
+| 921 | Minimum Add to Make Parentheses Valid | Medium | Stack | 🟢 |
 | 1111 |  Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | Stack | 🔴 |
 
 ## Heap
