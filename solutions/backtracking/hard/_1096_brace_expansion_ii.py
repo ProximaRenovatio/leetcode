@@ -1,63 +1,63 @@
 class Solution:
-        def braceExpansionII(self, expression):
-                def union(A, B):
-                            # {a,b} means we can choose either A or B
-                                        return A | B
+	def braceExpansionII(self, expression):
+		def union(A, B):
+			# {a,b} means we can choose either A or B
+			return A | B
 
-                                                def concat(A, B):
-                                                            # Concatenation:
-                                                                        # combine every string from A with every string from B
-                                                                                    return {a + b for a in A for b in B}
+		def concat(A, B):
+			# Concatenation:
+			# combine every string from A with every string from B
+			return {a + b for a in A for b in B}
 
-                                                                                            def parse(i):
-                                                                                                        # result = all strings produced by this expression
-                                                                                                                    result = set()
+		def parse(i):
+			# result = all strings produced by this expression
+			result = set()
 
-                                                                                                                                # current = strings produced by the current sequence
-                                                                                                                                            current = {""}
+			# current = strings produced by the current sequence
+			current = {""}
 
-                                                                                                                                                        while i < len(expression) and expression[i] != "}":
+			while i < len(expression) and expression[i] != "}":
 
-                                                                                                                                                                        if expression[i] == "{":
-                                                                                                                                                                                            # Parse everything inside the braces
-                                                                                                                                                                                                                inside, i = parse(i + 1)
+				if expression[i] == "{":
+					# Parse everything inside the braces
+					inside, i = parse(i + 1)
 
-                                                                                                                                                                                                                                    # Concatenate the result with what we already have
-                                                                                                                                                                                                                                                        current = concat(current, inside)
+					# Concatenate the result with what we already have
+					current = concat(current, inside)
 
-                                                                                                                                                                                                                                                                        elif expression[i] == ",":
-                                                                                                                                                                                                                                                                                            # ',' means union.
-                                                                                                                                                                                                                                                                                                                # Save the current sequence.
-                                                                                                                                                                                                                                                                                                                                    result = union(result, current)
+				elif expression[i] == ",":
+					# ',' means union.
+					# Save the current sequence.
+					result = union(result, current)
 
-                                                                                                                                                                                                                                                                                                                                                        # Start a new sequence after the comma
-                                                                                                                                                                                                                                                                                                                                                                            current = {""}
-                                                                                                                                                                                                                                                                                                                                                                                                i += 1
+					# Start a new sequence after the comma
+					current = {""}
+					i += 1
 
-                                                                                                                                                                                                                                                                                                                                                                                                                else:
-                                                                                                                                                                                                                                                                                                                                                                                                                                    # Read a consecutive sequence of letters
-                                                                                                                                                                                                                                                                                                                                                                                                                                                        j = i
+				else:
+					# Read a consecutive sequence of letters
+					j = i
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                            while j < len(expression) and expression[j].isalpha():
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    j += 1
+					while j < len(expression) and expression[j].isalpha():
+						j += 1
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        word = expression[i:j]
+					word = expression[i:j]
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            # Add the word to the current sequence
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                current = concat(current, {word})
+					# Add the word to the current sequence
+					current = concat(current, {word})
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    i = j
+					i = j
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                # Add the last sequence
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            result = union(result, current)
+			# Add the last sequence
+			result = union(result, current)
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        # Skip the closing '}'
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    if i < len(expression) and expression[i] == "}":
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    i += 1
+			# Skip the closing '}'
+			if i < len(expression) and expression[i] == "}":
+				i += 1
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                return result, i
+			return result, i
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        result, _ = parse(0)
+		result, _ = parse(0)
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                # The problem requires lexicographical order
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        return sorted(result)
+		# The problem requires lexicographical order
+		return sorted(result)
