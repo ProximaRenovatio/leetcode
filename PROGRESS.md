@@ -12,7 +12,7 @@ Legenda:
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
 | 1 | Two Sum | Easy | Hash Map | 🟢 |
-| 6 | Plus One | Easy | Arrays | 🟢 |
+| 66 | Plus One | Easy | Arrays | 🟢 |
 | 835 | Image Overlap | Medium | Array | 🟡 |
 | 3550 | Smallest index with digit sum equal to index | Easy | Array + Math | 🔵 |
 | 3903 | Smallest stable index I | Easy | Array | 🔵 |
