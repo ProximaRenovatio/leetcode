@@ -12,6 +12,7 @@ Legenda:
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
 | 1 | Two Sum | Easy | Hash Map | 🟢 |
+| 6 | Plus One | Easy | Arrays | 🟢 |
 | 835 | Image Overlap | Medium | Array | 🟡 |
 | 3550 | Smallest index with digit sum equal to index | Easy | Array + Math | 🔵 |
 | 3903 | Smallest stable index I | Easy | Array | 🔵 |
@@ -24,6 +25,7 @@ Legenda:
 |---|---|---|---|---|
 | 6 | Zigzag Conversion | Medium | Strings | 🟢 |
 | 678 | Valid Parenthesis String | Medium | Strings | 🟡 |
+| 1021 | Remove outermost parentheses | Easy | Strings | 🟢 |
 | 1807 | Evaluate the bracket pairs of a string | Medium | Strings + Hash Table | 🔴 |
 | 3498 | Reverse Degree of a String | Easy | Strings | 🟢 |
 
@@ -46,6 +48,7 @@ Legenda:
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
 | 3 | Longest Substring | Medium | Sliding Window | 🟢 |
+| 121 | Best Time to Buy and Sell Stock | Easy | Sliding Window | 🔵 |
 | 1658 | Minimum Operations to Reduce X to Zero | Medium | Sliding Window | 🟡 |
 
 ## Binary Search
@@ -112,6 +115,7 @@ Legenda:
 
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
+| 70 | Climbing Stairs | Easy | DP + Memoization | 🟢 |
 | 115 | Distinct Subsequences | Hard | DP + Memoization | 🔴 |
 | 940 | Distinct Subsequences II | Hard | DP + Memoization | 🔴 |
 | 1621 | Number of sets of k non overlapping line segments | Medium | DP + Memoization + Math | 🔴 |
