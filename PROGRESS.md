@@ -75,6 +75,7 @@ Legenda:
 | 921 | Minimum Add to Make Parentheses Valid | Medium | Stack | 🔵 |
 | 1111 |  Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | Stack | 🔴 |
 | 1190 |  Reverse Substrings Between Each Pair of Parentheses | Medium | Stack | 🔴 |
+| 1541 |  Minimum Insertions to Balance a Parentheses String | Medium | Stack | 🟢 |
 | 1614 |  Maximum Nesting Depth of the Parentheses | Easy | Stack | 🔵 |
 
 
