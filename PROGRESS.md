@@ -83,6 +83,7 @@ Legenda:
 
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
+| 2333 | Minimum Sum of Squared Difference | Medium | Heap + Greedy | 🔴 |
 
 ## Trees
 
