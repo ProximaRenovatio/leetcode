@@ -14,6 +14,7 @@ Legenda:
 | 1 | Two Sum | Easy | Hash Map | 🟢 |
 | 66 | Plus One | Easy | Arrays | 🟢 |
 | 835 | Image Overlap | Medium | Array | 🟡 |
+| 2778 | Sum of Squares of Special Elements | Easy | Array | 🔵 |
 | 3550 | Smallest index with digit sum equal to index | Easy | Array + Math | 🔵 |
 | 3903 | Smallest stable index I | Easy | Array | 🔵 |
 | 3904 | Smallest stable index II | Medium | Array | 🔵 |
@@ -103,6 +104,7 @@ Legenda:
 |---|---|---|---|---|
 | 17 | Letter Combinations of a Phone Number | Medium | Backtracking | 🟡 |
 | 22 | Generate Parentheses | Medium | Backtracking | 🔴 |
+| 46 | Permutations | Medium | Backtracking | 🟡 |
 | 301 | Remove Invalid Parentheses | Hard | Backtracking + BFS | 🟡 |
 | 1096 | Brace Expansion II | Hard | Backtracking + String + Stack + Sorting | 🔴 |
 
