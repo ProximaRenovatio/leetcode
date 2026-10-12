@@ -79,7 +79,6 @@ Legenda:
 | 1541 |  Minimum Insertions to Balance a Parentheses String | Medium | Stack | 🟢 |
 | 1614 |  Maximum Nesting Depth of the Parentheses | Easy | Stack | 🔵 |
 
-
 ## Heap
 
 | # | Problem | Difficulty | Pattern | Status |
@@ -114,6 +113,7 @@ Legenda:
 |---|---|---|---|---|
 | 1520 | Maximum number of non overlapping substrings | Hard | DP + Memoization + Greedy | 🔴 |
 | 2472 | Maximum number of non overlapping palindrome substrings | Hard | DP + Memoization + Greedy | 🔴 |
+| 2897 | Apply Operations on Array to Maximize Sum of Squares | Hard | Greedy + Bit Manipulation + Array | 🟡 |
 
 ## Dynamic Programming
 
