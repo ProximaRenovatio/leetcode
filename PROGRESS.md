@@ -114,6 +114,7 @@ Legenda:
 | 1520 | Maximum number of non overlapping substrings | Hard | DP + Memoization + Greedy | 🔴 |
 | 2472 | Maximum number of non overlapping palindrome substrings | Hard | DP + Memoization + Greedy | 🔴 |
 | 2897 | Apply Operations on Array to Maximize Sum of Squares | Hard | Greedy + Bit Manipulation + Array | 🟡 |
+| 3727 | Maximum Alternating Sum of Squares | Medium | Greedy + Array | 🟢 |
 
 ## Dynamic Programming
 
