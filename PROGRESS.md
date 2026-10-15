@@ -15,6 +15,7 @@ Legenda:
 | 66 | Plus One | Easy | Arrays | 🟢 |
 | 835 | Image Overlap | Medium | Array | 🟡 |
 | 2778 | Sum of Squares of Special Elements | Easy | Array | 🔵 |
+| 2913 | Subarrays Distinct Element Sum of Squares I | Easy | Array | 🔵 |
 | 3550 | Smallest index with digit sum equal to index | Easy | Array + Math | 🔵 |
 | 3903 | Smallest stable index I | Easy | Array | 🔵 |
 | 3904 | Smallest stable index II | Medium | Array | 🔵 |
@@ -114,6 +115,7 @@ Legenda:
 | 1520 | Maximum number of non overlapping substrings | Hard | DP + Memoization + Greedy | 🔴 |
 | 2472 | Maximum number of non overlapping palindrome substrings | Hard | DP + Memoization + Greedy | 🔴 |
 | 2897 | Apply Operations on Array to Maximize Sum of Squares | Hard | Greedy + Bit Manipulation + Array | 🟡 |
+| 3723 | Apply Operations on Array to Maximize Sum of Squares | Hard | Greedy + String + Array | 🟡 |
 | 3727 | Maximum Alternating Sum of Squares | Medium | Greedy + Array | 🟢 |
 
 ## Dynamic Programming
