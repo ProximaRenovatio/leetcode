@@ -16,6 +16,7 @@ Legenda:
 | 835 | Image Overlap | Medium | Array | 🟡 |
 | 2778 | Sum of Squares of Special Elements | Easy | Array | 🔵 |
 | 2913 | Subarrays Distinct Element Sum of Squares I | Easy | Array | 🔵 |
+| 2916 | Subarrays Distinct Element Sum of Squares II | Hard | Array | 🔴 |
 | 3550 | Smallest index with digit sum equal to index | Easy | Array + Math | 🔵 |
 | 3903 | Smallest stable index I | Easy | Array | 🔵 |
 | 3904 | Smallest stable index II | Medium | Array | 🔵 |
@@ -35,6 +36,8 @@ Legenda:
 
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
+| 3551 | 
+Minimum Swaps to Sort by Digit Sum | Medium | Hash Table + Array | 🔴 |
 
 ## Two Pointers
 
