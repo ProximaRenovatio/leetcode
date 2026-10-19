@@ -61,6 +61,7 @@ Minimum Swaps to Sort by Digit Sum | Medium | Hash Table + Array | 🔴 |
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
 | 4 | Median of two sorted arrays | Hard | Binary Search | 🟢 |
+| 2089 | Find Target Indices After Sorting Array | Easy | Binary Search | 🟢 |
 
 ## Linked List
 
