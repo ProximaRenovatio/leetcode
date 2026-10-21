@@ -31,6 +31,7 @@ Legenda:
 | 1021 | Remove outermost parentheses | Easy | Strings | 🟢 |
 | 1807 | Evaluate the bracket pairs of a string | Medium | Strings + Hash Table | 🔴 |
 | 3498 | Reverse Degree of a String | Easy | Strings | 🟢 |
+| 3863 | Minimum Operations to Sort a String | Medium | Strings | 🔴 |
 
 ## Hash Table
 
