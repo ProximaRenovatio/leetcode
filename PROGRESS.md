@@ -20,6 +20,7 @@ Legenda:
 | 3550 | Smallest index with digit sum equal to index | Easy | Array + Math | 🔵 |
 | 3903 | Smallest stable index I | Easy | Array | 🔵 |
 | 3904 | Smallest stable index II | Medium | Array | 🔵 |
+| 3942 | Minimum Operations to Sort a Permutation | Medium | Array | 🟡 |
 |  |  |  |  | ⬜ |
 
 ## Strings
