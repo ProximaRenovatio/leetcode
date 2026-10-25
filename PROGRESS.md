@@ -14,6 +14,7 @@ Legenda:
 | 1 | Two Sum | Easy | Hash Map | 🟢 |
 | 66 | Plus One | Easy | Arrays | 🟢 |
 | 835 | Image Overlap | Medium | Array | 🟡 |
+| 1254 | Number of Closed Islands | Medium | Array + DFS + BFS + Matrix | 🟡 |
 | 2778 | Sum of Squares of Special Elements | Easy | Array | 🔵 |
 | 2913 | Subarrays Distinct Element Sum of Squares I | Easy | Array | 🔵 |
 | 2916 | Subarrays Distinct Element Sum of Squares II | Hard | Array | 🔴 |
@@ -104,6 +105,12 @@ Minimum Swaps to Sort by Digit Sum | Medium | Hash Table + Array | 🔴 |
 |---|---|---|---|---|
 | 3568 | Minimum Moves to Clean the Classroom | Medium | BFS + Bitmask | 🔴 |
 
+## Bit Manipulation
+
+| # | Problem | Difficulty | Pattern | Status |
+|---|---|---|---|---|
+| 3644 | Maximum K to Sort a Permutation | Medium | Array + Bit Manipulation | 🔴 |
+
 ## Backtracking
 
 | # | Problem | Difficulty | Pattern | Status |
@@ -147,6 +154,7 @@ Minimum Swaps to Sort by Digit Sum | Medium | Hash Table + Array | 🔴 |
 | 50 | Pow(x,n) | Medium | Math | 🟡 |
 | 836 | Rectangle Overlap | Easy | Geometry | 🟢 |
 | 1401 | Circle and Rectangle Overlapping | Medium | Geometry | 🟡 |
+| 2409 | Count Days Spent Together | Easy | Math | 🔵 |
 | 3483 | Unique 3-Digit Even Numbers | Easy | Math | 🟢 |
 | 3870 | Count Commas in Range | Easy | Math | 🔵 |
 | 3871 | Count Commas in Range II | Medium | Math | 🟡 |
