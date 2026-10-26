@@ -19,6 +19,7 @@ Legenda:
 | 2913 | Subarrays Distinct Element Sum of Squares I | Easy | Array | 🔵 |
 | 2916 | Subarrays Distinct Element Sum of Squares II | Hard | Array | 🔴 |
 | 3550 | Smallest index with digit sum equal to index | Easy | Array + Math | 🔵 |
+| 3619 | Count Islands With Total Value Divisible by K | Medium | Array + BFS + DFS + Matrix | 🔴 |
 | 3903 | Smallest stable index I | Easy | Array | 🔵 |
 | 3904 | Smallest stable index II | Medium | Array | 🔵 |
 | 3942 | Minimum Operations to Sort a Permutation | Medium | Array | 🟡 |
