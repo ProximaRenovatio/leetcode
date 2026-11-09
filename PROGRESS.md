@@ -23,6 +23,7 @@ Legenda:
 | 3903 | Smallest stable index I | Easy | Array | 🔵 |
 | 3904 | Smallest stable index II | Medium | Array | 🔵 |
 | 3942 | Minimum Operations to Sort a Permutation | Medium | Array | 🟡 |
+| 3963 | Create Grid With Exactly One Path | Easy | Array | 🟢 |
 |  |  |  |  | ⬜ |
 
 ## Strings
@@ -104,7 +105,9 @@ Minimum Swaps to Sort by Digit Sum | Medium | Hash Table + Array | 🔴 |
 
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
+| 1267 | Count Servers that Communicate | Medium | BFS + DFS | 🟡 |
 | 3568 | Minimum Moves to Clean the Classroom | Medium | BFS + Bitmask | 🔴 |
+| 3970 | Shortest Path With At Most K Consecutive Identical Characters | Medium | Graph + Heap | 🔴 |
 
 ## Bit Manipulation
 
