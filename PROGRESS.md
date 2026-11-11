@@ -134,6 +134,7 @@ Minimum Swaps to Sort by Digit Sum | Medium | Hash Table + Array | 🔴 |
 | 2897 | Apply Operations on Array to Maximize Sum of Squares | Hard | Greedy + Bit Manipulation + Array | 🟡 |
 | 3723 | Apply Operations on Array to Maximize Sum of Squares | Hard | Greedy + String + Array | 🟡 |
 | 3727 | Maximum Alternating Sum of Squares | Medium | Greedy + Array | 🟢 |
+| 3789 | Minimum Cost to Acquire Required Items | Medium | Greedy + Math | 🔴 |
 
 ## Dynamic Programming
 
