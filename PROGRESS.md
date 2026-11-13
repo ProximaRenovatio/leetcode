@@ -61,6 +61,8 @@ Minimum Swaps to Sort by Digit Sum | Medium | Hash Table + Array | 🔴 |
 | 3 | Longest Substring | Medium | Sliding Window | 🟢 |
 | 121 | Best Time to Buy and Sell Stock | Easy | Sliding Window | 🔵 |
 | 1658 | Minimum Operations to Reduce X to Zero | Medium | Sliding Window | 🟡 |
+| 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | Sliding Window + Stack + Segment Tree + Queue | 🔴 |
+
 
 ## Binary Search
 
