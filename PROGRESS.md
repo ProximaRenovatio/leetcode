@@ -50,9 +50,10 @@ Minimum Swaps to Sort by Digit Sum | Medium | Hash Table + Array | 🔴 |
 | # | Problem | Difficulty | Pattern | Status |
 |---|---|---|---|---|
 | 5 | Longest Palindromic substring | Medium | Two Pointers | 🟢 |
-| 4030 | check ASCII palindromic | Easy | Two Pointers | 🟢 |
 | 26 | Remove duplicates from sorted array | Easy | Two Pointers | 🟡 |
 | 125 | Valid Palindrome | Easy | Two Pointers | 🟢 |
+| 2911 | Minimum Changes to Make K Semi-palindromes | Hard | Two Pointers + DP + String | 🔴 |
+| 4030 | check ASCII palindromic | Easy | Two Pointers | 🟢 |
 
 ## Sliding Window
 
