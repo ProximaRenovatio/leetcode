@@ -135,6 +135,7 @@ Minimum Swaps to Sort by Digit Sum | Medium | Hash Table + Array | 🔴 |
 |---|---|---|---|---|
 | 1520 | Maximum number of non overlapping substrings | Hard | DP + Memoization + Greedy | 🔴 |
 | 2472 | Maximum number of non overlapping palindrome substrings | Hard | DP + Memoization + Greedy | 🔴 |
+| 2567 | Minimum Score by Changing Two Elements | Medium | Sorting + Array + Greedy | 🔴 |
 | 2897 | Apply Operations on Array to Maximize Sum of Squares | Hard | Greedy + Bit Manipulation + Array | 🟡 |
 | 3723 | Apply Operations on Array to Maximize Sum of Squares | Hard | Greedy + String + Array | 🟡 |
 | 3727 | Maximum Alternating Sum of Squares | Medium | Greedy + Array | 🟢 |
@@ -147,12 +148,15 @@ Minimum Swaps to Sort by Digit Sum | Medium | Hash Table + Array | 🔴 |
 | 70 | Climbing Stairs | Easy | DP + Memoization | 🟢 |
 | 115 | Distinct Subsequences | Hard | DP + Memoization | 🔴 |
 | 940 | Distinct Subsequences II | Hard | DP + Memoization | 🔴 |
+| 1524 | Number of Sub-arrays With Odd Sum | Medium | DP + Prefix Sum | 🔴 |
 | 1621 | Number of sets of k non overlapping line segments | Medium | DP + Memoization + Math | 🔴 |
 | 1477 | Find two non-overlapping Sub-arrays each with target sum | Medium | DP + Memoization + Binary Search | 🔴 |
 | 2267 | Valid Parentheses String Path | Hard | DP + Array | 🔴 |
 | 3414 | Maximum Score of non-Overlapping intervals | Hard | DP + Memoization | 🔴 |
 | 3524 | Find X Value of Array I | Medium | DP + Memoization + Array + Math | 🔴 |
 | 3525 | Find X Value of Array II | Hard | DP + Memoization + Array + Math | 🔴 |
+| 3693 | Climbing Stairs II | Hard | DP + Memoization + Array + Math | 🔴 |
+| 3882 | Minimum XOR Path in a Grid | Hard | DP + Memoization + Array + Matrix | 🔴 |
 
 
 ## Math
@@ -161,10 +165,14 @@ Minimum Swaps to Sort by Digit Sum | Medium | Hash Table + Array | 🔴 |
 |---|---|---|---|---|
 | 7 | Reverse Integer | Medium | Math | 🟡 |
 | 50 | Pow(x,n) | Medium | Math | 🟡 |
+| 453 | Minimum Moves to Equal Array Elements | Medium | Math + Array | 🔵 |
+| 462 | Minimum Moves to Equal Array Elements II | Medium | Math + Array + Sortinh | 🟡 |
 | 836 | Rectangle Overlap | Easy | Geometry | 🟢 |
+| 1352 | Product of the Last K Numbers | Medium | Design + Data Stream + Prefix Sum | 🔴 |
 | 1401 | Circle and Rectangle Overlapping | Medium | Geometry | 🟡 |
 | 2409 | Count Days Spent Together | Easy | Math | 🔵 |
 | 3483 | Unique 3-Digit Even Numbers | Easy | Math | 🟢 |
+| 3736 | Minimum Moves to Equal Array Elements III | Easy | Math | 🔵 |
 | 3870 | Count Commas in Range | Easy | Math | 🔵 |
 | 3871 | Count Commas in Range II | Medium | Math | 🟡 |
 | 3875 | Construct Uniform Parity Array I | Easy | Math | 🔵 |
